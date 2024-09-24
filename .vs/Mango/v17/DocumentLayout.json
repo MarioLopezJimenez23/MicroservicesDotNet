@@ -3,144 +3,104 @@
   "WorkspaceRootPath": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3CE8BD5D-9522-4773-9A61-C2271A333F4C}|Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.services.shoppingcartapi\\mango.services.shoppingcartapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3CE8BD5D-9522-4773-9A61-C2271A333F4C}|Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj|solutionrelative:mango.services.shoppingcartapi\\mango.services.shoppingcartapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FDBE211-EE54-4DC9-AF87-63B977033AD8}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.services.couponapi\\mango.services.couponapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0FDBE211-EE54-4DC9-AF87-63B977033AD8}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|solutionrelative:mango.services.couponapi\\mango.services.couponapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.web\\views\\home\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\views\\home\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.web\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3CE8BD5D-9522-4773-9A61-C2271A333F4C}|Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.services.shoppingcartapi\\utility\\backendapiauthenticationhttpclienthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CE8BD5D-9522-4773-9A61-C2271A333F4C}|Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj|solutionrelative:mango.services.shoppingcartapi\\utility\\backendapiauthenticationhttpclienthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3CE8BD5D-9522-4773-9A61-C2271A333F4C}|Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.services.shoppingcartapi\\controllers\\cartapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CE8BD5D-9522-4773-9A61-C2271A333F4C}|Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj|solutionrelative:mango.services.shoppingcartapi\\controllers\\cartapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{292033D4-9F1F-4BC5-A6DF-3AC22BD95AD6}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.services.productapi\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{292033D4-9F1F-4BC5-A6DF-3AC22BD95AD6}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|solutionrelative:mango.services.productapi\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.web\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{292033D4-9F1F-4BC5-A6DF-3AC22BD95AD6}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.services.productapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{292033D4-9F1F-4BC5-A6DF-3AC22BD95AD6}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|solutionrelative:mango.services.productapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{292033D4-9F1F-4BC5-A6DF-3AC22BD95AD6}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.services.productapi\\models\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{292033D4-9F1F-4BC5-A6DF-3AC22BD95AD6}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|solutionrelative:mango.services.productapi\\models\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.web\\views\\product\\productedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\views\\product\\productedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.web\\views\\product\\productcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\views\\product\\productcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.web\\views\\coupon\\couponcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\views\\coupon\\couponcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FDBE211-EE54-4DC9-AF87-63B977033AD8}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.services.couponapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0FDBE211-EE54-4DC9-AF87-63B977033AD8}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|solutionrelative:mango.services.couponapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{292033D4-9F1F-4BC5-A6DF-3AC22BD95AD6}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.services.productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{292033D4-9F1F-4BC5-A6DF-3AC22BD95AD6}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|solutionrelative:mango.services.productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{292033D4-9F1F-4BC5-A6DF-3AC22BD95AD6}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.services.productapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{292033D4-9F1F-4BC5-A6DF-3AC22BD95AD6}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|solutionrelative:mango.services.productapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{292033D4-9F1F-4BC5-A6DF-3AC22BD95AD6}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.services.productapi\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{292033D4-9F1F-4BC5-A6DF-3AC22BD95AD6}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|solutionrelative:mango.services.productapi\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FDBE211-EE54-4DC9-AF87-63B977033AD8}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.services.couponapi\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FDBE211-EE54-4DC9-AF87-63B977033AD8}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|solutionrelative:mango.services.couponapi\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FDBE211-EE54-4DC9-AF87-63B977033AD8}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.services.couponapi\\controllers\\couponapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FDBE211-EE54-4DC9-AF87-63B977033AD8}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|solutionrelative:mango.services.couponapi\\controllers\\couponapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.web\\models\\requestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\models\\requestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{292033D4-9F1F-4BC5-A6DF-3AC22BD95AD6}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.services.productapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{292033D4-9F1F-4BC5-A6DF-3AC22BD95AD6}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|solutionrelative:mango.services.productapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{292033D4-9F1F-4BC5-A6DF-3AC22BD95AD6}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.services.productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{292033D4-9F1F-4BC5-A6DF-3AC22BD95AD6}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|solutionrelative:mango.services.productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.web\\services\\iservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\services\\iservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.web\\views\\product\\productindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\views\\product\\productindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.web\\views\\cart\\cartindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\views\\cart\\cartindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3CE8BD5D-9522-4773-9A61-C2271A333F4C}|Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.services.shoppingcartapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CE8BD5D-9522-4773-9A61-C2271A333F4C}|Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj|solutionrelative:mango.services.shoppingcartapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.web\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8D5A1EB-A281-4A34-8473-D2503E92DB36}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.services.authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8D5A1EB-A281-4A34-8473-D2503E92DB36}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.web\\views\\home\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\views\\home\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.web\\views\\product\\productdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\views\\product\\productdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.web\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.web\\utility\\allowedextensionsattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\utility\\allowedextensionsattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.web\\services\\iservices\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\services\\iservices\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.web\\utility\\maxfilesizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\utility\\maxfilesizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.web\\services\\iservices\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\services\\iservices\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.ProductAPI\\Migrations\\20240923104706_addProductAndSeedTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mango.Services.ProductAPI\\Migrations\\20240923104706_addProductAndSeedTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.web\\services\\iservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\services\\iservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{292033D4-9F1F-4BC5-A6DF-3AC22BD95AD6}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.services.productapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{292033D4-9F1F-4BC5-A6DF-3AC22BD95AD6}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|solutionrelative:mango.services.productapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.web\\services\\iservices\\icouponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\services\\iservices\\icouponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FDBE211-EE54-4DC9-AF87-63B977033AD8}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.services.couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FDBE211-EE54-4DC9-AF87-63B977033AD8}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|solutionrelative:mango.services.couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.web\\models\\cartdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\models\\cartdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FDBE211-EE54-4DC9-AF87-63B977033AD8}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.services.couponapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FDBE211-EE54-4DC9-AF87-63B977033AD8}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|solutionrelative:mango.services.couponapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.web\\models\\cartheaderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\models\\cartheaderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{292033D4-9F1F-4BC5-A6DF-3AC22BD95AD6}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.services.productapi\\extensions\\webapplicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{292033D4-9F1F-4BC5-A6DF-3AC22BD95AD6}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|solutionrelative:mango.services.productapi\\extensions\\webapplicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.web\\models\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A974228-E631-4BA6-B0C5-EC427D20728F}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\models\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE8BD5D-9522-4773-9A61-C2271A333F4C}|Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.services.shoppingcartapi\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CE8BD5D-9522-4773-9A61-C2271A333F4C}|Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj|solutionrelative:mango.services.shoppingcartapi\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE8BD5D-9522-4773-9A61-C2271A333F4C}|Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.services.shoppingcartapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CE8BD5D-9522-4773-9A61-C2271A333F4C}|Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj|solutionrelative:mango.services.shoppingcartapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE8BD5D-9522-4773-9A61-C2271A333F4C}|Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.services.shoppingcartapi\\service\\couponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CE8BD5D-9522-4773-9A61-C2271A333F4C}|Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj|solutionrelative:mango.services.shoppingcartapi\\service\\couponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE8BD5D-9522-4773-9A61-C2271A333F4C}|Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.services.shoppingcartapi\\extensions\\webapplicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CE8BD5D-9522-4773-9A61-C2271A333F4C}|Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj|solutionrelative:mango.services.shoppingcartapi\\extensions\\webapplicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE8BD5D-9522-4773-9A61-C2271A333F4C}|Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.services.shoppingcartapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3CE8BD5D-9522-4773-9A61-C2271A333F4C}|Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj|solutionrelative:mango.services.shoppingcartapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE8BD5D-9522-4773-9A61-C2271A333F4C}|Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.services.shoppingcartapi\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CE8BD5D-9522-4773-9A61-C2271A333F4C}|Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj|solutionrelative:mango.services.shoppingcartapi\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE8BD5D-9522-4773-9A61-C2271A333F4C}|Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\microservices\\mango\\mango.services.shoppingcartapi\\migrations\\20240923143047_addcarttables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CE8BD5D-9522-4773-9A61-C2271A333F4C}|Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj|solutionrelative:mango.services.shoppingcartapi\\migrations\\20240923143047_addcarttables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -150,7 +110,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 25,
           "Children": [
             {
               "$type": "Bookmark",
@@ -161,459 +121,312 @@
               "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Mango.Services.ShoppingCartAPI",
-              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj",
-              "RelativeDocumentMoniker": "Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj",
-              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj",
-              "RelativeToolTip": "Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABLAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-23T13:14:52.542Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Mango.Services.CouponAPI",
-              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj",
-              "RelativeDocumentMoniker": "Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj",
-              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj",
-              "RelativeToolTip": "Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-23T13:14:19.086Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductDetails.cshtml",
-              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Views\\Home\\ProductDetails.cshtml",
-              "RelativeDocumentMoniker": "Mango.Web\\Views\\Home\\ProductDetails.cshtml",
-              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Views\\Home\\ProductDetails.cshtml",
-              "RelativeToolTip": "Mango.Web\\Views\\Home\\ProductDetails.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA4AAAA",
+              "DocumentIndex": 3,
+              "Title": "CartIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Views\\Cart\\CartIndex.cshtml",
+              "RelativeDocumentMoniker": "Mango.Web\\Views\\Cart\\CartIndex.cshtml",
+              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Views\\Cart\\CartIndex.cshtml",
+              "RelativeToolTip": "Mango.Web\\Views\\Cart\\CartIndex.cshtml",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAACgAAABXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T12:31:18.535Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Mango.Web\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Mango.Web\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T12:29:58.336Z",
+              "WhenOpened": "2024-09-24T08:54:12.374Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Mango.Web\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Mango.Web\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAAAAEAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T12:27:10.637Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CouponCreate.cshtml",
-              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Views\\Coupon\\CouponCreate.cshtml",
-              "RelativeDocumentMoniker": "Mango.Web\\Views\\Coupon\\CouponCreate.cshtml",
-              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Views\\Coupon\\CouponCreate.cshtml",
-              "RelativeToolTip": "Mango.Web\\Views\\Coupon\\CouponCreate.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T12:10:13.283Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "MappingConfig.cs",
-              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.CouponAPI\\MappingConfig.cs",
-              "RelativeDocumentMoniker": "Mango.Services.CouponAPI\\MappingConfig.cs",
-              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.CouponAPI\\MappingConfig.cs",
-              "RelativeToolTip": "Mango.Services.CouponAPI\\MappingConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T12:08:14.175Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "CouponAPIController.cs",
-              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
-              "RelativeDocumentMoniker": "Mango.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
-              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
-              "RelativeToolTip": "Mango.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T12:07:57.473Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Program.cs",
               "RelativeDocumentMoniker": "Mango.Web\\Program.cs",
               "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Program.cs",
               "RelativeToolTip": "Mango.Web\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAA+AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T11:03:30.681Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Mango.Web\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Mango.Web\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T11:01:37.155Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "ProductIndex.cshtml",
-              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Views\\Product\\ProductIndex.cshtml",
-              "RelativeDocumentMoniker": "Mango.Web\\Views\\Product\\ProductIndex.cshtml",
-              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Views\\Product\\ProductIndex.cshtml",
-              "RelativeToolTip": "Mango.Web\\Views\\Product\\ProductIndex.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T10:59:51.892Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ProductEdit.cshtml",
-              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Views\\Product\\ProductEdit.cshtml",
-              "RelativeDocumentMoniker": "Mango.Web\\Views\\Product\\ProductEdit.cshtml",
-              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Views\\Product\\ProductEdit.cshtml",
-              "RelativeToolTip": "Mango.Web\\Views\\Product\\ProductEdit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T10:59:34.89Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "ProductDelete.cshtml",
-              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Views\\Product\\ProductDelete.cshtml",
-              "RelativeDocumentMoniker": "Mango.Web\\Views\\Product\\ProductDelete.cshtml",
-              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Views\\Product\\ProductDelete.cshtml",
-              "RelativeToolTip": "Mango.Web\\Views\\Product\\ProductDelete.cshtml",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwDsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T10:59:21.133Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ProductCreate.cshtml",
-              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Views\\Product\\ProductCreate.cshtml",
-              "RelativeDocumentMoniker": "Mango.Web\\Views\\Product\\ProductCreate.cshtml",
-              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Views\\Product\\ProductCreate.cshtml",
-              "RelativeToolTip": "Mango.Web\\Views\\Product\\ProductCreate.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T10:59:06.024Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "RequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Models\\RequestDto.cs",
-              "RelativeDocumentMoniker": "Mango.Web\\Models\\RequestDto.cs",
-              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Models\\RequestDto.cs",
-              "RelativeToolTip": "Mango.Web\\Models\\RequestDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T10:58:00.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T06:56:09.76Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "Mango.Web\\Services\\ProductService.cs",
-              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Services\\ProductService.cs",
-              "RelativeToolTip": "Mango.Web\\Services\\ProductService.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAA0wDcAAAAMAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.AuthAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Mango.Services.AuthAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.AuthAPI\\Program.cs",
+              "RelativeToolTip": "Mango.Services.AuthAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T10:56:45.986Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Services\\IServices\\IProductService.cs",
-              "RelativeDocumentMoniker": "Mango.Web\\Services\\IServices\\IProductService.cs",
-              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Services\\IServices\\IProductService.cs",
-              "RelativeToolTip": "Mango.Web\\Services\\IServices\\IProductService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T10:56:06.756Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "AllowedExtensionsAttribute.cs",
-              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Utility\\AllowedExtensionsAttribute.cs",
-              "RelativeDocumentMoniker": "Mango.Web\\Utility\\AllowedExtensionsAttribute.cs",
-              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Utility\\AllowedExtensionsAttribute.cs",
-              "RelativeToolTip": "Mango.Web\\Utility\\AllowedExtensionsAttribute.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T10:54:59.07Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "MaxFileSizeAttribute.cs",
-              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Utility\\MaxFileSizeAttribute.cs",
-              "RelativeDocumentMoniker": "Mango.Web\\Utility\\MaxFileSizeAttribute.cs",
-              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Utility\\MaxFileSizeAttribute.cs",
-              "RelativeToolTip": "Mango.Web\\Utility\\MaxFileSizeAttribute.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T10:54:17.507Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductDto.cs",
-              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Models\\ProductDto.cs",
-              "RelativeDocumentMoniker": "Mango.Web\\Models\\ProductDto.cs",
-              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Models\\ProductDto.cs",
-              "RelativeToolTip": "Mango.Web\\Models\\ProductDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T10:52:11.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T06:55:59.177Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Mango.Web\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Mango.Web\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAF0AAAAAAAAAAAAAAG8AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T10:51:37.752Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "20240923104706_addProductAndSeedTable.cs",
-              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.ProductAPI\\Migrations\\20240923104706_addProductAndSeedTable.cs",
-              "RelativeDocumentMoniker": "Mango.Services.ProductAPI\\Migrations\\20240923104706_addProductAndSeedTable.cs",
-              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.ProductAPI\\Migrations\\20240923104706_addProductAndSeedTable.cs",
-              "RelativeToolTip": "Mango.Services.ProductAPI\\Migrations\\20240923104706_addProductAndSeedTable.cs",
+              "Title": "ProductDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Views\\Home\\ProductDetails.cshtml",
+              "RelativeDocumentMoniker": "Mango.Web\\Views\\Home\\ProductDetails.cshtml",
+              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Views\\Home\\ProductDetails.cshtml",
+              "RelativeToolTip": "Mango.Web\\Views\\Home\\ProductDetails.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T06:51:45.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Mango.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Mango.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAowFIAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T10:47:07.117Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.ProductAPI\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Mango.Services.ProductAPI\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.ProductAPI\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Mango.Services.ProductAPI\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-23T10:43:57.581Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.ProductAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "Mango.Services.ProductAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.ProductAPI\\appsettings.json",
-              "RelativeToolTip": "Mango.Services.ProductAPI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-23T10:43:06.939Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.CouponAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "Mango.Services.CouponAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.CouponAPI\\appsettings.json",
-              "RelativeToolTip": "Mango.Services.CouponAPI\\appsettings.json",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-23T10:42:53.648Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.CouponAPI\\Program.cs",
-              "RelativeDocumentMoniker": "Mango.Services.CouponAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.CouponAPI\\Program.cs",
-              "RelativeToolTip": "Mango.Services.CouponAPI\\Program.cs",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAuwE4AAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T08:11:35.206Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.CouponAPI\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Mango.Services.CouponAPI\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.CouponAPI\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Mango.Services.CouponAPI\\Data\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T10:18:23.564Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.ProductAPI\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Mango.Services.ProductAPI\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.ProductAPI\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Mango.Services.ProductAPI\\Data\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T10:08:41.76Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.ProductAPI\\Program.cs",
-              "RelativeDocumentMoniker": "Mango.Services.ProductAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.ProductAPI\\Program.cs",
-              "RelativeToolTip": "Mango.Services.ProductAPI\\Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAFUAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T10:15:31.097Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "MappingConfig.cs",
-              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.ProductAPI\\MappingConfig.cs",
-              "RelativeDocumentMoniker": "Mango.Services.ProductAPI\\MappingConfig.cs",
-              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.ProductAPI\\MappingConfig.cs",
-              "RelativeToolTip": "Mango.Services.ProductAPI\\MappingConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T10:14:54.426Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.ProductAPI\\Models\\Dto\\ResponseDto.cs",
-              "RelativeDocumentMoniker": "Mango.Services.ProductAPI\\Models\\Dto\\ResponseDto.cs",
-              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.ProductAPI\\Models\\Dto\\ResponseDto.cs",
-              "RelativeToolTip": "Mango.Services.ProductAPI\\Models\\Dto\\ResponseDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T10:11:17.276Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "WebApplicationBuilderExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.ProductAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
-              "RelativeDocumentMoniker": "Mango.Services.ProductAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
-              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.ProductAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
-              "RelativeToolTip": "Mango.Services.ProductAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T10:10:23.656Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ProductDto.cs",
-              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.ProductAPI\\Models\\Dto\\ProductDto.cs",
-              "RelativeDocumentMoniker": "Mango.Services.ProductAPI\\Models\\Dto\\ProductDto.cs",
-              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.ProductAPI\\Models\\Dto\\ProductDto.cs",
-              "RelativeToolTip": "Mango.Services.ProductAPI\\Models\\Dto\\ProductDto.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAsAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T10:07:26.153Z",
+              "WhenOpened": "2024-09-24T06:50:07.125Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.ProductAPI\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Mango.Services.ProductAPI\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.ProductAPI\\Models\\Product.cs",
-              "RelativeToolTip": "Mango.Services.ProductAPI\\Models\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Mango.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Mango.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T06:45:02.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Services\\IServices\\IProductService.cs",
+              "RelativeDocumentMoniker": "Mango.Web\\Services\\IServices\\IProductService.cs",
+              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Services\\IServices\\IProductService.cs",
+              "RelativeToolTip": "Mango.Web\\Services\\IServices\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T10:06:48.538Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T06:36:23.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICouponService.cs",
+              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Services\\IServices\\ICouponService.cs",
+              "RelativeDocumentMoniker": "Mango.Web\\Services\\IServices\\ICouponService.cs",
+              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Services\\IServices\\ICouponService.cs",
+              "RelativeToolTip": "Mango.Web\\Services\\IServices\\ICouponService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:36:21.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IBaseService.cs",
+              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Services\\IServices\\IBaseService.cs",
+              "RelativeDocumentMoniker": "Mango.Web\\Services\\IServices\\IBaseService.cs",
+              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Services\\IServices\\IBaseService.cs",
+              "RelativeToolTip": "Mango.Web\\Services\\IServices\\IBaseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:36:18.036Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ProductAPIController.cs",
-              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
-              "RelativeDocumentMoniker": "Mango.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
-              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
-              "RelativeToolTip": "Mango.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAWwD8AAAAQAAAA",
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "Mango.Web\\Services\\CartService.cs",
+              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Services\\CartService.cs",
+              "RelativeToolTip": "Mango.Web\\Services\\CartService.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAAD0AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T10:02:32.803Z",
+              "WhenOpened": "2024-09-24T06:35:20.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICartService.cs",
+              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Services\\IServices\\ICartService.cs",
+              "RelativeDocumentMoniker": "Mango.Web\\Services\\IServices\\ICartService.cs",
+              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Services\\IServices\\ICartService.cs",
+              "RelativeToolTip": "Mango.Web\\Services\\IServices\\ICartService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:34:16.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CartHeaderDto.cs",
+              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Models\\CartHeaderDto.cs",
+              "RelativeDocumentMoniker": "Mango.Web\\Models\\CartHeaderDto.cs",
+              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Models\\CartHeaderDto.cs",
+              "RelativeToolTip": "Mango.Web\\Models\\CartHeaderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:31:56.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CartDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Models\\CartDetailsDto.cs",
+              "RelativeDocumentMoniker": "Mango.Web\\Models\\CartDetailsDto.cs",
+              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Models\\CartDetailsDto.cs",
+              "RelativeToolTip": "Mango.Web\\Models\\CartDetailsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:31:43.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CartDto.cs",
+              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Models\\CartDto.cs",
+              "RelativeDocumentMoniker": "Mango.Web\\Models\\CartDto.cs",
+              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Models\\CartDto.cs",
+              "RelativeToolTip": "Mango.Web\\Models\\CartDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:31:31.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Mango.Web\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Mango.Web\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAAAE8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:30:54.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240923143047_addCartTables.cs",
+              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.ShoppingCartAPI\\Migrations\\20240923143047_addCartTables.cs",
+              "RelativeDocumentMoniker": "Mango.Services.ShoppingCartAPI\\Migrations\\20240923143047_addCartTables.cs",
+              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.ShoppingCartAPI\\Migrations\\20240923143047_addCartTables.cs",
+              "RelativeToolTip": "Mango.Services.ShoppingCartAPI\\Migrations\\20240923143047_addCartTables.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:30:47.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.ShoppingCartAPI\\Controllers\\CartAPIController.cs",
+              "RelativeDocumentMoniker": "Mango.Services.ShoppingCartAPI\\Controllers\\CartAPIController.cs",
+              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.ShoppingCartAPI\\Controllers\\CartAPIController.cs",
+              "RelativeToolTip": "Mango.Services.ShoppingCartAPI\\Controllers\\CartAPIController.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAAAHgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:29:44.796Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.ShoppingCartAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Mango.Services.ShoppingCartAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.ShoppingCartAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Mango.Services.ShoppingCartAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:18:49.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WebApplicationBuilderExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.ShoppingCartAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "Mango.Services.ShoppingCartAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
+              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.ShoppingCartAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
+              "RelativeToolTip": "Mango.Services.ShoppingCartAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwCcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:18:05.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.ShoppingCartAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Mango.Services.ShoppingCartAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.ShoppingCartAPI\\Program.cs",
+              "RelativeToolTip": "Mango.Services.ShoppingCartAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:17:07.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.ShoppingCartAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Mango.Services.ShoppingCartAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.ShoppingCartAPI\\appsettings.json",
+              "RelativeToolTip": "Mango.Services.ShoppingCartAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-23T14:16:04.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.ShoppingCartAPI\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "Mango.Services.ShoppingCartAPI\\MappingConfig.cs",
+              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.ShoppingCartAPI\\MappingConfig.cs",
+              "RelativeToolTip": "Mango.Services.ShoppingCartAPI\\MappingConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:15:37.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BackendApiAuthenticationHttpClientHandler.cs",
+              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.ShoppingCartAPI\\Utility\\BackendApiAuthenticationHttpClientHandler.cs",
+              "RelativeDocumentMoniker": "Mango.Services.ShoppingCartAPI\\Utility\\BackendApiAuthenticationHttpClientHandler.cs",
+              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.ShoppingCartAPI\\Utility\\BackendApiAuthenticationHttpClientHandler.cs",
+              "RelativeToolTip": "Mango.Services.ShoppingCartAPI\\Utility\\BackendApiAuthenticationHttpClientHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:15:00.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.ShoppingCartAPI\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "Mango.Services.ShoppingCartAPI\\Service\\ProductService.cs",
+              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.ShoppingCartAPI\\Service\\ProductService.cs",
+              "RelativeToolTip": "Mango.Services.ShoppingCartAPI\\Service\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:10:50.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CouponService.cs",
+              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.ShoppingCartAPI\\Service\\CouponService.cs",
+              "RelativeDocumentMoniker": "Mango.Services.ShoppingCartAPI\\Service\\CouponService.cs",
+              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Services.ShoppingCartAPI\\Service\\CouponService.cs",
+              "RelativeToolTip": "Mango.Services.ShoppingCartAPI\\Service\\CouponService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:10:33.677Z"
             }
           ]
         }

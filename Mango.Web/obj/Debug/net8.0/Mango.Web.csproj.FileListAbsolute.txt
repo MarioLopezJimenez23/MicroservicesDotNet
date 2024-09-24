@@ -37,3 +37,4 @@ C:\Users\mario.lopez\Documents\Formaciones\NetCore\Microservices\Mango\Mango.Web
 C:\Users\mario.lopez\Documents\Formaciones\NetCore\Microservices\Mango\Mango.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
 C:\Users\mario.lopez\Documents\Formaciones\NetCore\Microservices\Mango\Mango.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\mario.lopez\Documents\Formaciones\NetCore\Microservices\Mango\Mango.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mario.lopez\Documents\Formaciones\NetCore\Microservices\Mango\Mango.Web\obj\Debug\net8.0\Mango.Web.sourcelink.json

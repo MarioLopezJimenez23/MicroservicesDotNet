@@ -139,3 +139,4 @@ C:\Users\mario.lopez\Documents\Formaciones\NetCore\Microservices\Mango\Mango.Ser
 C:\Users\mario.lopez\Documents\Formaciones\NetCore\Microservices\Mango\Mango.Services.ProductAPI\obj\Debug\net8.0\Mango.Services.ProductAPI.pdb
 C:\Users\mario.lopez\Documents\Formaciones\NetCore\Microservices\Mango\Mango.Services.ProductAPI\obj\Debug\net8.0\Mango.Services.ProductAPI.genruntimeconfig.cache
 C:\Users\mario.lopez\Documents\Formaciones\NetCore\Microservices\Mango\Mango.Services.ProductAPI\obj\Debug\net8.0\ref\Mango.Services.ProductAPI.dll
+C:\Users\mario.lopez\Documents\Formaciones\NetCore\Microservices\Mango\Mango.Services.ProductAPI\obj\Debug\net8.0\Mango.Services.ProductAPI.sourcelink.json
