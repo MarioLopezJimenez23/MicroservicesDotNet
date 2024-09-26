@@ -140,3 +140,9 @@ C:\Users\mario.lopez\Documents\Formaciones\NetCore\Microservices\Mango\Mango.Ser
 C:\Users\mario.lopez\Documents\Formaciones\NetCore\Microservices\Mango\Mango.Services.ShoppingCartAPI\obj\Debug\net8.0\Mango.Services.ShoppingCartAPI.pdb
 C:\Users\mario.lopez\Documents\Formaciones\NetCore\Microservices\Mango\Mango.Services.ShoppingCartAPI\obj\Debug\net8.0\Mango.Services.ShoppingCartAPI.genruntimeconfig.cache
 C:\Users\mario.lopez\Documents\Formaciones\NetCore\Microservices\Mango\Mango.Services.ShoppingCartAPI\obj\Debug\net8.0\ref\Mango.Services.ShoppingCartAPI.dll
+C:\Users\mario.lopez\Documents\Formaciones\NetCore\Microservices\Mango\Mango.Services.ShoppingCartAPI\bin\Debug\net8.0\Azure.Core.Amqp.dll
+C:\Users\mario.lopez\Documents\Formaciones\NetCore\Microservices\Mango\Mango.Services.ShoppingCartAPI\bin\Debug\net8.0\Azure.Messaging.ServiceBus.dll
+C:\Users\mario.lopez\Documents\Formaciones\NetCore\Microservices\Mango\Mango.Services.ShoppingCartAPI\bin\Debug\net8.0\Microsoft.Azure.Amqp.dll
+C:\Users\mario.lopez\Documents\Formaciones\NetCore\Microservices\Mango\Mango.Services.ShoppingCartAPI\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\mario.lopez\Documents\Formaciones\NetCore\Microservices\Mango\Mango.Services.ShoppingCartAPI\bin\Debug\net8.0\Mango.MessageBus.dll
+C:\Users\mario.lopez\Documents\Formaciones\NetCore\Microservices\Mango\Mango.Services.ShoppingCartAPI\bin\Debug\net8.0\Mango.MessageBus.pdb

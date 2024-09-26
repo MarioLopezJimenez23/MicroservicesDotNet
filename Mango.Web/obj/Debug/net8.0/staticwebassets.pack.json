@@ -13,6 +13,18 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\wwwroot\\images\\mango.png",
+      "PackagePath": "staticwebassets\\images\\mango.png"
+    },
+    {
+      "Id": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\wwwroot\\images\\order.png",
+      "PackagePath": "staticwebassets\\images\\order.png"
+    },
+    {
+      "Id": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
+    },
+    {
       "Id": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\Microservices\\Mango\\Mango.Web\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
